@@ -154,10 +154,3 @@ peon preview              # Прослушать звуки
 
 ---
 
-<div align="center">
-
-**Работа, работа!** 🔨
-
-*Made with ❤️ for Russian AI assistants community*
-
-</div>
