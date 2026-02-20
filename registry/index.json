@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "name": "peonRu",
+      "display_name": "Orc Peon (RU)",
+      "version": "1.0.0",
+      "description": "Russian Orc Peon sound pack from Warcraft III",
+      "author": {
+        "name": "NikitaFrankov",
+        "github": "NikitaFrankov"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "ru",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 13,
+      "total_size_bytes": 3547922,
+      "source_repo": "NikitaFrankov/peon-ping-ru",
+      "source_ref": "main",
+      "source_path": "packs/peonRu",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts",
+        "russian"
+      ],
+      "preview_sounds": [
+        "PeonReady1Ru.wav",
+        "PeonYes1Ru.wav"
+      ],
+      "added": "2025-02-20",
+      "updated": "2025-02-20"
+    },
+    {
+      "name": "peasantRu",
+      "display_name": "Human Peasant (RU)",
+      "version": "1.0.0",
+      "description": "Russian Human Peasant sound pack from Warcraft III",
+      "author": {
+        "name": "NikitaFrankov",
+        "github": "NikitaFrankov"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "ru",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 18,
+      "total_size_bytes": 10220500,
+      "source_repo": "NikitaFrankov/peon-ping-ru",
+      "source_ref": "main",
+      "source_path": "packs/peasantRu",
+      "tags": [
+        "gaming",
+        "warcraft",
+        "blizzard",
+        "rts",
+        "russian"
+      ],
+      "preview_sounds": [
+        "PeasantReady_ru.wav",
+        "PeasantYes1_ru.wav"
+      ],
+      "added": "2025-02-20",
+      "updated": "2025-02-20"
+    }
+  ]
+}

@@ -59,8 +59,8 @@ if [ "$OPENCLAW_MODE" = false ]; then
   INSTALL_DIR="$BASE_DIR/hooks/peon-ping"
   SETTINGS="$BASE_DIR/settings.json"
 fi
-REPO_BASE="https://raw.githubusercontent.com/PeonPing/peon-ping/main"
-REGISTRY_URL="https://peonping.github.io/registry/index.json"
+REPO_BASE="https://raw.githubusercontent.com/NikitaFrankov/peon-ping-ru/main"
+REGISTRY_URL="https://raw.githubusercontent.com/NikitaFrankov/peon-ping-ru/main/registry/index.json"
 
 if [ "$INIT_LOCAL_CONFIG" = true ]; then
   LOCAL_CONFIG_DIR="$LOCAL_BASE/hooks/peon-ping"
@@ -86,8 +86,8 @@ if [ "$INIT_LOCAL_CONFIG" = true ]; then
   exit 0
 fi
 
-# Default packs (curated English set installed by default)
-DEFAULT_PACKS="peon peasant sc_kerrigan sc_battlecruiser glados"
+# Default packs (Russian voice packs)
+DEFAULT_PACKS="peonRu peasantRu"
 
 
 # --- Platform detection ---
