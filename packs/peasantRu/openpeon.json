@@ -1,0 +1,142 @@
+{
+  "cesp_version": "1.0",
+  "name": "peasantRu",
+  "display_name": "Human Peasant (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "NikitaFrankov",
+    "github": "NikitaFrankov"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ru",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantReady_ru.wav",
+          "label": "Я готов."
+        },
+        {
+          "file": "sounds/PeasantWhat1_ru.wav",
+          "label": "Да, господин?"
+        },
+        {
+          "file": "sounds/PeasantWhat2_ru.wav",
+          "label": "Чего?"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantYes1_ru.wav",
+          "label": "Да."
+        },
+        {
+          "file": "sounds/PeasantYes2_ru.wav",
+          "label": "Угу, хорошо."
+        },
+        {
+          "file": "sounds/PeasantYes3_ru.wav",
+          "label": "Хорошо."
+        },
+        {
+          "file": "sounds/PeasantYes4_ru.wav",
+          "label": "Ну, я пошел"
+        },
+        {
+          "file": "sounds/PeasantYesAttack1_ru.wav",
+          "label": "Придется драться..."
+        },
+        {
+          "file": "sounds/PeasantYesAttack3_ru.wav",
+          "label": "Прощайте..."
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantReady_ru.wav",
+          "label": "Я готов."
+        },
+        {
+          "file": "sounds/PeasantYes1_ru.wav",
+          "label": "Да."
+        },
+        {
+          "file": "sounds/PeasantYes3_ru.wav",
+          "label": "Хорошо."
+        },
+        {
+          "file": "sounds/PeasantWhat3_ru.wav",
+          "label": "Опять работа!?"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantYesAttack4_ru.wav",
+          "label": "Ну вот, меня убьют."
+        },
+        {
+          "file": "sounds/PeasantYesAttack3_ru.wav",
+          "label": "Прощайте..."
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantWhat1_ru.wav",
+          "label": "Да, господин?"
+        },
+        {
+          "file": "sounds/PeasantWhat2_ru.wav",
+          "label": "Чего?"
+        },
+        {
+          "file": "sounds/PeasantWhat3_ru.wav",
+          "label": "Опять работа!?"
+        },
+        {
+          "file": "sounds/PeasantWhat4_ru.wav",
+          "label": "Опять работа!?"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantYesAttack4_ru.wav",
+          "label": "Ну вот, меня убьют."
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/PeasantAngry1_ru.wav",
+          "label": "Ты что-ль король? А я за тебя не голосовал."
+        },
+        {
+          "file": "sounds/PeasantAngry2_ru.wav",
+          "label": "Мы поймали ведьму, можно мы ее сожжем?"
+        },
+        {
+          "file": "sounds/PeasantAngry3_ru.wav",
+          "label": "Помогите! На меня давят!"
+        },
+        {
+          "file": "sounds/PeasantAngry4_ru.wav",
+          "label": "Работа не волк, в лес не убежит."
+        },
+        {
+          "file": "sounds/PeasantAngry5_ru.wav",
+          "label": "Тебя бы так!"
+        }
+      ]
+    }
+  }
+}

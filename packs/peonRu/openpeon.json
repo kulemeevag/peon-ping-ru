@@ -1,0 +1,122 @@
+{
+  "cesp_version": "1.0",
+  "name": "peonRu",
+  "display_name": "Orc Peon (RU)",
+  "version": "1.0.0",
+  "author": {
+    "name": "NikitaFrankov",
+    "github": "NikitaFrankov"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ru",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/PeonReady1Ru.wav",
+          "label": "Готов вкалывать"
+        },
+        {
+          "file": "sounds/PeonWhat1Ru.wav",
+          "label": "Че нада, хозяин"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/PeonYes1Ru.wav",
+          "label": "Да-да"
+        },
+        {
+          "file": "sounds/PeonYes2Ru.wav",
+          "label": "С удовольствием"
+        },
+        {
+          "file": "sounds/PeonYes3Ru.wav",
+          "label": "Сделаю"
+        },
+        {
+          "file": "sounds/PeonYes4Ru.wav",
+          "label": "Ха-ра-шо"
+        },
+        {
+          "file": "sounds/PeonYesAttack1Ru.wav",
+          "label": "Почему бы нет?"
+        },
+        {
+          "file": "sounds/PeonYesAttack2Ru.wav",
+          "label": "Попробую"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/PeonReady1Ru.wav",
+          "label": "Готов вкалывать"
+        },
+        {
+          "file": "sounds/PeonWhat1Ru.wav",
+          "label": "Че нада, хозяин?"
+        },
+        {
+          "file": "sounds/PeonYes1Ru.wav",
+          "label": "Да-да"
+        },
+        {
+          "file": "sounds/PeonYesAttack1Ru.wav",
+          "label": "Почему бы нет"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/PeonAngry1Ru.wav",
+          "label": "Чего?!!!"
+        },
+        {
+          "file": "sounds/PeonDeathRu.wav",
+          "label": "Агх!"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/PeonWhat1Ru.wav",
+          "label": "Че нада, хозяин?"
+        },
+        {
+          "file": "sounds/PeonWhat2Ru.wav",
+          "label": "Чего?!?!"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/PeonAngry1Ru.wav",
+          "label": "Чего?!!"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/PeonAngry1Ru.wav",
+          "label": "Чего?!!"
+        },
+        {
+          "file": "sounds/PeonAngry2Ru.wav",
+          "label": "Не мешай, я занят"
+        },
+        {
+          "file": "sounds/PeonAngry3Ru.wav",
+          "label": "Нет времени"
+        }
+      ]
+    }
+  }
+}
