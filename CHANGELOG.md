@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.7.2 (2026-02-21)
+
+### Changed
+- `install.ps1`: Updated to use fork registry and Russian packs (peonRu, peasantRu) by default — now consistent with `install.sh`
+
 ## v2.7.0 (2026-02-19)
 
 ### Added
