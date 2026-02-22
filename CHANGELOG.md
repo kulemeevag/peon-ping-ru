@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.7.3 (2026-02-22)
+
+### Added
+- Homebrew tap support: `brew tap NikitaFrankov/tap && brew install peon-ping-ru`
+- GitHub Actions workflow for automatic tap updates on release
+
 ## v2.7.2 (2026-02-21)
 
 ### Changed
