@@ -46,6 +46,19 @@ curl -fsSL https://raw.githubusercontent.com/NikitaFrankov/peon-ping-ru/main/ins
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/NikitaFrankov/peon-ping-ru/main/install.ps1" -UseBasicParsing | Invoke-Expression
 ```
 
+### Homebrew (macOS, Linux)
+
+```bash
+brew tap NikitaFrankov/tap
+brew install peon-ping-ru
+```
+
+Обновление:
+
+```bash
+brew update && brew upgrade peon-ping-ru
+```
+
 ### Клонирование и проверка
 
 ```bash
